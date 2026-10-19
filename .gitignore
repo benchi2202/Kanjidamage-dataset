@@ -1,0 +1,8 @@
+# Original Anki package + unpacked scratch (not part of the dataset)
+*.apkg
+extract/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
